@@ -1,4 +1,4 @@
-![](https://github.com/dfilitto/UnityHelixStack/blob/main/Unity%20-%20HELIX%20STACK%20GAME.jpg?raw=true)
+![](https://github.com/dfilitto/EstoriasInterativasGDevelop/blob/main/GDevelop%20-%20Construindo%20uma%20est%C3%B3ria%20interativa.jpg?raw=true)
 # [GDevelop - Construindo Estórias Interativas](https://www.youtube.com/playlist?list=PLfvOpw8k80WoT7MyQoOV2PFatMB98SQms)
 
 Sabe aquele jogo do tipo adventure que você sempre pensou em criar?
